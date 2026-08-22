@@ -5,3 +5,4 @@ Git permite controlar la evolucion de los archivos.
 Primera modificacion preparada para commit.
 Segunda modificacion todavia no preparada.
 Repositorio sincronizado con GitHub.
+Esta linea fue desarrollada en la rama feature-readme.
